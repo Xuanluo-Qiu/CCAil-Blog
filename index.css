@@ -1,0 +1,13 @@
+.h1-text {
+  dont-size:40px;
+  font-weight:bold;
+  font-family:Helvetica;
+}
+
+.p-text {
+  font-size:20px;
+}
+
+.ul-text {
+  font-size:17px;
+}
